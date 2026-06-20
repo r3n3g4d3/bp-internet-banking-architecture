@@ -1,4 +1,3 @@
-# bp-internet-banking-architecture
 # BP Internet Banking Architecture
 
 ## Overview
